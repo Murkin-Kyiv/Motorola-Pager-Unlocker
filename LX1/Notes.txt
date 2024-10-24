@@ -1,1 +1,1 @@
-
+I recommend not to solder T2, but to use a probe with a needle. So as not to damage the display heat seal
